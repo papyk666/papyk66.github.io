@@ -1,0 +1,15 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.img-top{ 
+    width: 200px; 
+    
+    } 
+    body{ 
+    background: rgb(113, 165, 167); 
+    }
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
